@@ -1,6 +1,6 @@
 # Linux File Manager
 
-Authors: Samuel Iván Sánchez Salazar, Luis Ángel Reyes Frausto
+Authors: Luis Ángel Reyes Frausto (@Tankel), Samuel Iván Sánchez Salazar (@SamuelSanchez03)
 
 ## Introduction
 
